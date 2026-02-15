@@ -3,8 +3,6 @@
 ## Instructor Feedback
 
 ### General Comments
-<!-- Add your general comments about the student's work here -->
-
 
 ---
 
@@ -13,7 +11,7 @@
 ### Lab 1 (Session 1)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 1 here -->
+<!-- I will add comments about Lab 1 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -27,7 +25,7 @@
 ### Lab 2 (Session 2)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 2 here -->
+<!-- I will add comments about Lab 2 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -41,7 +39,7 @@
 ### Assignment
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Assignment here -->
+<!-- I will add comments about Assignment here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -57,7 +55,7 @@
 ### Lab 1 (Session 1)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 1 here -->
+<!-- I will add comments about Lab 1 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -71,7 +69,7 @@
 ### Lab 2 (Session 2)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 2 here -->
+<!-- I will add comments about Lab 2 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -85,7 +83,7 @@
 ### Assignment
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Assignment here -->
+<!-- I will add comments about Assignment here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -101,7 +99,7 @@
 ### Lab 1 (Session 1)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 1 here -->
+<!-- I will add comments about Lab 1 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -115,7 +113,7 @@
 ### Lab 2 (Session 2)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 2 here -->
+<!-- I will add comments about Lab 2 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -129,7 +127,7 @@
 ### Assignment
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Assignment here -->
+<!-- I will add comments about Assignment here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -145,7 +143,7 @@
 ### Lab 1 (Session 1)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 1 here -->
+<!-- I will add comments about Lab 1 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -159,7 +157,7 @@
 ### Lab 2 (Session 2)
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Lab 2 here -->
+<!-- I will add comments about Lab 2 here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -173,7 +171,7 @@
 ### Assignment
 **Grade:** ___ / ___  
 **Comments:**
-<!-- Add comments about Assignment here -->
+<!-- I will add comments about Assignment here -->
 
 **Checklist:**
 - [ ] All instructions followed
@@ -181,6 +179,89 @@
 - [ ] Required outputs/visualizations present
 - [ ] Code is well-commented and organized
 - [ ] Additional requirements met (if any)
+
+---
+
+## Week 5
+
+### Lab 1 (Session 1)
+**Grade:** ___ / ___  
+**Comments:**
+<!-- I will add comments about Lab 1 here -->
+
+**Checklist:**
+- [ ] All instructions followed
+- [ ] Code runs without errors
+- [ ] Required outputs/visualizations present
+- [ ] Code is well-commented and organized
+- [ ] Additional requirements met (if any)
+
+---
+
+### Lab 2 (Session 2)
+**Grade:** ___ / ___  
+**Comments:**
+<!-- I will add comments about Lab 2 here -->
+
+**Checklist:**
+- [ ] All instructions followed
+- [ ] Code runs without errors
+- [ ] Required outputs/visualizations present
+- [ ] Code is well-commented and organized
+- [ ] Additional requirements met (if any)
+
+---
+
+### Assignment
+**Grade:** ___ / ___  
+**Comments:**
+<!-- I will add comments about Assignment here -->
+
+**Checklist:**
+- [ ] All instructions followed
+- [ ] Code runs without errors
+- [ ] Required outputs/visualizations present
+- [ ] Code is well-commented and organized
+- [ ] Additional requirements met (if any)
+
+---
+
+## Week 6
+
+### Capstone
+**Grade:** ___ / ___  
+**Comments:**
+<!-- I will add comments about teams' capstones here -->
+
+**Checklist:**
+- [ ] All instructions followed
+- [ ] Code runs without errors
+- [ ] Required outputs/visualizations present
+- [ ] Code is well-commented and organized
+- [ ] Additional requirements met (if any)
+
+---
+
+## Grades Summary
+
+| Week | Assignment | Grade Earned | Total Points | Percentage |
+|------|------------|--------------|--------------|------------|
+| Week 1 | Lab 1 | ___ | ___ | ___% |
+| Week 1 | Lab 2 | ___ | ___ | ___% |
+| Week 1 | Assignment | ___ | ___ | ___% |
+| Week 2 | Lab 1 | ___ | ___ | ___% |
+| Week 2 | Lab 2 | ___ | ___ | ___% |
+| Week 2 | Assignment | ___ | ___ | ___% |
+| Week 3 | Lab 1 | ___ | ___ | ___% |
+| Week 3 | Lab 2 | ___ | ___ | ___% |
+| Week 3 | Assignment | ___ | ___ | ___% |
+| Week 4 | Lab 1 | ___ | ___ | ___% |
+| Week 4 | Lab 2 | ___ | ___ | ___% |
+| Week 4 | Assignment | ___ | ___ | ___% |
+| Week 5 | Lab 1 | ___ | ___ | ___% |
+| Week 5 | Lab 2 | ___ | ___ | ___% |
+| Week 5 | Assignment | ___ | ___ | ___% |
+| Week 6 | Capstone | ___ | ___ | ___% |
 
 ---
 
